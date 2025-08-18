@@ -1,4 +1,3 @@
-preview
 <h1 align="center">Hi 👋, I'm Martin Germán</h1>
 <h3 align="center">A passionate University Student from Hungary</h3>
 
