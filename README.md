@@ -1,18 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-23297
-Fork on GitHub
-7895
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
 preview
 <h1 align="center">Hi 👋, I'm Martin Germán</h1>
 <h3 align="center">A passionate University Student from Hungary</h3>
