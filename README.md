@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Martin Germán</h1>
 <h3 align="center">A passionate University Student from Hungary</h3>
 
-- 🌱 I’m currently learning **Next.js and doing LeetCode Challanges**
+- 🌱 I’m currently learning **Next.js, Laravel and doing LeetCode Challanges**
 
 - 👨‍💻 All of my projects are available at [https://martin-german.github.io/personal-portfolio/](https://martin-german.github.io/personal-portfolio/)
 
