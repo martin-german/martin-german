@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Martin Germán</h1>
 <h3 align="center">A passionate University Student from Hungary</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=martin-german" alt="martin-german" /></a> </p>
-
 - 🌱 I’m currently learning **Next.js and doing LeetCode Challanges**
 
 - 👨‍💻 All of my projects are available at [https://martin-german.github.io/personal-portfolio/](https://martin-german.github.io/personal-portfolio/)
